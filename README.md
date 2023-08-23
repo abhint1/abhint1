@@ -1,7 +1,10 @@
-### Hi there 👋
+### Hi there, I am Abhishek Nath Tiwari 👋
+
+![My Profile Overview](https://github-readme-stats.vercel.app/api?username=abhint1&show_icons=true&theme=blue-green&count_private=true)
 
 <!--
 **abhint1/abhint1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
@@ -14,3 +17,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
