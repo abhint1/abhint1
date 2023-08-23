@@ -2,6 +2,7 @@
 
 ![My Profile Overview](https://github-readme-stats.vercel.app/api?username=abhint1&show_icons=true&theme=blue-green&count_private=true)
 
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/abhishek-nath-tiwari/)
 <!--
 **abhint1/abhint1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,5 +18,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 
 
